@@ -1,0 +1,639 @@
+"Gender" "Nationality" "Age" "Online_test" "Test_Language" "RawScore_English" "RawScore_Math" "RawScore_Psychology" "Program" "MeanFYG" "Credits"
+"1" "female" "Dutch" 20 "present at testday" "English" 15 18 28 "Dutch" 6.5 55
+"2" "female" "German" 20 "present at testday" "Dutch" 17 26 21 "Dutch" 5.3 17.5
+"3" "male" "Dutch" 21 "present at testday" "Dutch" 18 8 29 "English" 6.9 8
+"4" "male" "EU" 19 "present at testday" "English" 20 22 30 "English" 4.2 60
+"5" "male" "German" 18 "present at testday" "English" 17 12 37 "English" 6.1 50
+"6" "female" "German" 21 "online" "Dutch" 15 18 37 "English" 7.2 55
+"7" "female" "German" 18 "present at testday" "English" 13 16 38 "Dutch" 7.9 60
+"8" "female" "German" 18 "present at testday" "Dutch" 17 14 29 "Dutch" 6.9 60
+"9" "female" "Non-EU" 19 "present at testday" "Dutch" 11 12 36 "Dutch" 7 45
+"10" "female" "Dutch" 19 "present at testday" "English" 7 16 33 "Dutch" 7.2 60
+"11" "female" "Dutch" 20 "present at testday" "English" 15 16 20 "Dutch" 5.4 50
+"12" "male" "Dutch" 20 "present at testday" "English" 15 26 31 "English" 7.8 60
+"13" "female" "German" 19 "online" "English" 17 21 33 "Dutch" 7.1 60
+"14" "female" "Non-EU" 21 "online" "English" 14 14 33 "English" 5.7 0
+"15" "female" "German" 19 "present at testday" "English" 9 16 29 "English" 8.6 60
+"16" "female" "Dutch" 21 "present at testday" "Dutch" 12 14 29 "Dutch" 4.4 58
+"17" "male" "Dutch" 18 "present at testday" "English" 15 17 28 "English" 7.5 60
+"18" "male" "German" 19 "present at testday" "English" 10 13 26 "English" 6.8 60
+"19" "female" "EU" 18 "present at testday" "Dutch" 18 24 33 "Dutch" 6.8 55
+"20" "female" "German" 20 "present at testday" "English" 14 11 30 "English" 6.6 57
+"21" "male" "German" 19 "present at testday" "Dutch" 10 16 27 "English" 8.2 60
+"22" "female" "Dutch" 17 "present at testday" "Dutch" 12 18 34 "Dutch" 6.7 60
+"23" "female" "German" 20 "present at testday" "English" 17 18 37 "English" 8.7 60
+"24" "female" "German" 19 "present at testday" "Dutch" 15 17 28 "English" 8.6 35
+"25" "female" "German" 23 "present at testday" "English" 14 8 24 "English" 5.4 45
+"26" "male" "Dutch" 20 "present at testday" "Dutch" 15 22 33 "Dutch" 5.3 60
+"27" "female" "Dutch" 19 "present at testday" "English" 15 16 37 "Dutch" 7.6 60
+"28" "female" "German" 21 "present at testday" "Dutch" 16 18 16 "English" 4.9 0
+"29" "female" "German" 19 "present at testday" "Dutch" 15 13 31 "English" 7.5 55
+"30" "female" "Dutch" 18 "present at testday" "Dutch" 11 10 36 "Dutch" 6.8 60
+"31" "male" "EU" 18 "present at testday" "Dutch" 14 11 36 "English" 5.9 50
+"32" "female" "German" 18 "present at testday" "English" 11 15 22 "English" 5.3 8
+"33" "female" "German" 19 "present at testday" "Dutch" 11 21 31 "English" 8 60
+"34" "male" "German" 23 "online" "Dutch" 15 17 29 "Dutch" 6.7 55
+"35" "female" "Dutch" 18 "online" "Dutch" 17 16 36 "English" 6.8 50
+"36" "female" "German" 21 "present at testday" "Dutch" 12 24 23 "Dutch" 3 2
+"37" "male" "Dutch" 18 "online" "Dutch" 11 20 32 "Dutch" 5.8 55
+"38" "female" "Dutch" 18 "present at testday" "Dutch" 14 11 33 "English" 5.9 53
+"39" "female" "German" 18 "present at testday" "Dutch" 15 12 27 "English" 5.6 60
+"40" "male" "Dutch" 21 "present at testday" "Dutch" 14 15 30 "Dutch" 6.8 60
+"41" "female" "Dutch" 21 "present at testday" "English" 9 6 28 "English" 6.2 50
+"42" "female" "Dutch" 21 "present at testday" "Dutch" 12 20 27 "English" 5.8 60
+"43" "female" "German" 22 "present at testday" "English" 16 17 34 "Dutch" 7 60
+"44" "male" "Dutch" 17 "present at testday" "English" 14 13 23 "English" 6.5 22.5
+"45" "female" "German" 17 "present at testday" "English" 13 20 32 "English" 7.9 60
+"46" "female" "Dutch" 19 "present at testday" "English" 13 14 30 "Dutch" 8.7 55
+"47" "female" "German" 19 "present at testday" "Dutch" 14 24 17 "English" 5.2 40
+"48" "female" "German" 20 "present at testday" "English" 12 13 31 "English" 7.2 60
+"49" "female" "German" 18 "present at testday" "English" 19 20 32 "English" 7.1 60
+"50" "female" "German" 17 "present at testday" "English" 18 9 29 "English" 5.6 60
+"51" "female" "German" 19 "present at testday" "Dutch" 11 20 27 "English" 6.5 60
+"52" "male" "Dutch" 18 "present at testday" "English" 7 5 26 "English" 7.5 22.5
+"53" "female" "Dutch" 18 "present at testday" "English" 15 24 23 "Dutch" 3.8 15.5
+"54" "male" "German" 21 "present at testday" "English" 8 16 33 "Dutch" 8.1 48
+"55" "male" "German" 19 "present at testday" "Dutch" 9 17 28 "Dutch" 6.2 60
+"56" "male" "EU" 19 "present at testday" "English" 18 10 36 "English" 1 55
+"57" "female" "German" 19 "present at testday" "Dutch" 17 14 24 "Dutch" 5 10
+"58" "female" "German" 21 "online" "English" 17 17 30 "English" 7.5 48
+"59" "female" "EU" 20 "present at testday" "Dutch" 13 18 25 "English" 6.5 45
+"60" "female" "Dutch" 19 "present at testday" "English" 7 19 23 "English" 6.5 10
+"61" "male" "Dutch" 18 "present at testday" "English" 16 11 32 "Dutch" 4.2 60
+"62" "female" "EU" 18 "present at testday" "English" 10 13 32 "Dutch" 7.5 43
+"63" "female" "Non-EU" 19 "present at testday" "English" 15 14 22 "English" 4 40
+"64" "female" "Dutch" 19 "present at testday" "English" 7 15 27 "English" 7 60
+"65" "female" "German" 19 "present at testday" "Dutch" 7 10 30 "Dutch" 6.8 43
+"66" "female" "EU" 20 "online" "English" 15 13 23 "Dutch" 3.7 10
+"67" "male" "Dutch" 18 "present at testday" "English" 13 24 31 "English" 5.8 35
+"68" "female" "German" 19 "present at testday" "English" 19 16 27 "Dutch" 7 60
+"69" "male" "Dutch" 22 "present at testday" "English" 18 24 36 "English" 7.2 60
+"70" "female" "Dutch" 20 "present at testday" "Dutch" 11 12 34 "English" 6.1 60
+"71" "female" "Non-EU" 23 "present at testday" "English" 10 16 35 "English" 5.6 55
+"72" "female" "German" 23 "present at testday" "English" 14 13 25 "English" 7.2 55
+"73" "female" "Dutch" 21 "present at testday" "English" 8 13 34 "English" 7.2 60
+"74" "male" "Dutch" 20 "present at testday" "English" 10 19 37 "English" 7.4 50
+"75" "female" "German" 18 "present at testday" "English" 14 25 33 "English" 7.5 55
+"76" "female" "German" 26 "online" "Dutch" 17 13 31 "English" 6.7 60
+"77" "female" "Dutch" 20 "present at testday" "English" 11 9 35 "Dutch" 7.5 53
+"78" "female" "Dutch" 18 "present at testday" "Dutch" 18 19 19 "Dutch" 6.1 18
+"79" "female" "German" 20 "present at testday" "Dutch" 13 15 35 "Dutch" 8.2 60
+"80" "female" "German" 18 "present at testday" "Dutch" 16 17 13 "English" 2.7 3
+"81" "female" "German" 25 "present at testday" "Dutch" 15 24 31 "Dutch" 7.9 57
+"82" "male" "Dutch" 18 "present at testday" "English" 17 13 34 "English" 5.4 55
+"83" "male" "Dutch" 20 "present at testday" "English" 18 16 28 "Dutch" 6.3 60
+"84" "male" "Dutch" 20 "present at testday" "English" 14 13 32 "English" 5.9 25
+"85" "male" "German" 21 "present at testday" "English" 14 21 31 "English" 5 60
+"86" "female" "German" 20 "present at testday" "English" 9 17 31 "English" 8.6 60
+"87" "female" "German" 24 "present at testday" "English" 10 18 29 "English" 6.5 60
+"88" "male" "Dutch" 18 "present at testday" "English" 9 12 32 "English" 6.2 45
+"89" "male" "German" 21 "present at testday" "Dutch" 16 21 32 "Dutch" 6.7 60
+"90" "male" "German" 21 "present at testday" "English" 14 20 32 "English" 7 60
+"91" "female" "German" 19 "present at testday" "Dutch" 15 20 32 "Dutch" 8.2 55
+"92" "female" "Dutch" 25 "online" "English" 16 15 28 "Dutch" 7.9 60
+"93" "male" "Dutch" 19 "present at testday" "English" 10 14 30 "Dutch" 6.1 60
+"94" "male" "Non-EU" 22 "present at testday" "English" 16 13 26 "English" 4.3 50
+"95" "female" "Dutch" 23 "present at testday" "English" 16 25 28 "English" 6 60
+"96" "female" "EU" 19 "present at testday" "English" 14 14 25 "English" 4.6 50
+"97" "female" "EU" 19 "present at testday" "Dutch" 14 8 31 "Dutch" 6.8 0
+"98" "female" "German" 21 "present at testday" "Dutch" 13 16 24 "Dutch" 5.6 5
+"99" "female" "Dutch" 18 "present at testday" "English" 12 19 33 "English" 6.9 55
+"100" "female" "Dutch" 18 "present at testday" "Dutch" 17 16 27 "Dutch" 6.7 60
+"101" "female" "Dutch" 20 "present at testday" "English" 13 12 23 "Dutch" 6.5 8
+"102" "male" "Dutch" 23 "present at testday" "English" 5 10 33 "Dutch" 6.7 53
+"103" "male" "German" 19 "present at testday" "English" 8 19 25 "English" 6.7 47.5
+"104" "female" "German" 18 "present at testday" "English" 15 20 37 "English" 6.7 60
+"105" "female" "German" 19 "present at testday" "English" 12 8 24 "English" 4 3
+"106" "female" "Dutch" 28 "present at testday" "Dutch" 18 22 27 "Dutch" 8.7 60
+"107" "female" "German" 21 "present at testday" "English" 16 19 32 "English" 8.1 60
+"108" "female" "German" 22 "present at testday" "English" 14 14 29 "Dutch" 8.5 60
+"109" "female" "EU" 19 "present at testday" "English" 13 13 33 "English" 6 50
+"110" "male" "Dutch" 19 "present at testday" "Dutch" 9 19 28 "Dutch" 6.6 60
+"111" "female" "EU" 22 "present at testday" "Dutch" 17 20 39 "English" 5.7 35
+"112" "female" "German" 19 "present at testday" "English" 15 15 25 "English" 7 60
+"113" "female" "Dutch" 20 "present at testday" "Dutch" 13 21 28 "English" 7.2 60
+"114" "female" "EU" 20 "present at testday" "Dutch" 8 12 34 "English" 6.6 3
+"115" "female" "German" 18 "present at testday" "English" 7 13 31 "English" 7.5 60
+"116" "female" "Dutch" 22 "online" "English" 17 14 34 "Dutch" 7.7 60
+"117" "male" "Dutch" 18 "present at testday" "Dutch" 18 17 32 "Dutch" 8.1 60
+"118" "female" "Dutch" 20 "present at testday" "English" 18 11 25 "English" 7.3 50
+"119" "female" "Dutch" 20 "present at testday" "Dutch" 15 15 33 "English" 7.2 60
+"120" "female" "German" 20 "present at testday" "English" 13 19 22 "English" 4.1 10
+"121" "male" "Dutch" 19 "present at testday" "English" 16 21 37 "English" 7.7 55
+"122" "female" "Dutch" 20 "online" "English" 15 18 29 "English" 7.2 60
+"123" "female" "Dutch" 18 "present at testday" "English" 14 12 18 "Dutch" 6.5 7
+"124" "male" "German" 19 "present at testday" "English" 4 14 35 "Dutch" 6.6 55
+"125" "male" "German" 18 "present at testday" "Dutch" 13 21 31 "English" 6.3 60
+"126" "male" "German" 18 "present at testday" "English" 17 11 35 "English" 6.7 55
+"127" "female" "German" 18 "present at testday" "English" 14 11 24 "Dutch" 3.8 10
+"128" "male" "Dutch" 18 "present at testday" "Dutch" 17 25 26 "English" 7.1 55
+"129" "female" "German" 21 "present at testday" "Dutch" 17 17 28 "English" 5.8 55
+"130" "female" "Non-EU" 19 "present at testday" "Dutch" 16 19 35 "English" 4 35
+"131" "male" "Dutch" 22 "present at testday" "English" 9 22 36 "English" 7.3 60
+"132" "female" "Dutch" 18 "present at testday" "English" 19 18 30 "English" 7.4 55
+"133" "female" "German" 19 "present at testday" "Dutch" 12 26 34 "English" 7.8 60
+"134" "male" "Dutch" 18 "present at testday" "Dutch" 13 6 28 "English" 3.5 3
+"135" "male" "German" 18 "present at testday" "English" 18 23 33 "English" 7.8 60
+"136" "female" "German" 22 "present at testday" "Dutch" 15 15 25 "Dutch" 8.1 45
+"137" "male" "German" 23 "present at testday" "Dutch" 16 9 33 "English" 7.1 47.5
+"138" "female" "Dutch" 19 "online" "English" 12 18 24 "Dutch" 6 3
+"139" "female" "German" 21 "present at testday" "English" 15 9 23 "Dutch" 6.9 3
+"140" "female" "Dutch" 19 "present at testday" "Dutch" 7 11 35 "English" 5.4 55
+"141" "female" "EU" 18 "present at testday" "Dutch" 15 9 25 "English" 4 0
+"142" "female" "German" 17 "present at testday" "Dutch" 18 15 22 "English" 5.7 50
+"143" "female" "German" 23 "present at testday" "English" 15 17 38 "English" 7 50
+"144" "female" "German" 19 "present at testday" "English" 13 27 36 "Dutch" 7.5 60
+"145" "male" "Dutch" 18 "present at testday" "English" 13 21 29 "English" 7.5 47.5
+"146" "female" "Dutch" 21 "present at testday" "Dutch" 11 22 22 "English" 4.7 5
+"147" "female" "Dutch" 18 "present at testday" "Dutch" 15 20 29 "Dutch" 7.7 60
+"148" "female" "German" 18 "present at testday" "Dutch" 12 12 33 "Dutch" 7 55
+"149" "female" "German" 19 "online" "English" 17 21 28 "English" 6.5 47
+"150" "female" "German" 20 "present at testday" "English" 13 18 34 "English" 6.6 45
+"151" "female" "Dutch" 18 "present at testday" "Dutch" 19 19 31 "English" 8 60
+"152" "female" "EU" 18 "present at testday" "Dutch" 15 10 36 "Dutch" 5.1 10
+"153" "male" "German" 19 "present at testday" "English" 18 24 33 "English" 7.6 60
+"154" "female" "Dutch" 18 "present at testday" "Dutch" 18 21 30 "English" 6.7 55
+"155" "female" "German" 19 "present at testday" "English" 7 18 35 "Dutch" 8.2 47.5
+"156" "female" "Dutch" 20 "online" "English" 15 18 28 "Dutch" 6.3 55
+"157" "male" "Dutch" 18 "present at testday" "English" 13 17 32 "English" 7.7 60
+"158" "female" "German" 20 "present at testday" "Dutch" 18 20 39 "English" 7.8 60
+"159" "female" "Dutch" 20 "present at testday" "English" 13 26 31 "English" 7.5 50
+"160" "female" "Dutch" 18 "present at testday" "Dutch" 10 13 34 "Dutch" 7.9 60
+"161" "female" "Dutch" 20 "present at testday" "Dutch" 17 18 31 "Dutch" 7.4 60
+"162" "female" "German" 18 "present at testday" "English" 17 15 21 "Dutch" 4.6 13
+"163" "female" "Dutch" 18 "present at testday" "English" 13 15 32 "Dutch" 7.2 60
+"164" "female" "Dutch" 19 "present at testday" "English" 14 14 34 "Dutch" 7.5 60
+"165" "female" "Dutch" 19 "present at testday" "Dutch" 18 20 28 "English" 5.9 55
+"166" "female" "Dutch" 19 "present at testday" "Dutch" 16 23 31 "Dutch" 6.4 60
+"167" "male" "German" 20 "present at testday" "Dutch" 11 12 29 "English" 7.3 33
+"168" "female" "Dutch" 20 "present at testday" "English" 13 16 26 "English" 5.5 45
+"169" "female" "Dutch" 18 "present at testday" "Dutch" 18 18 36 "Dutch" 6.3 60
+"170" "female" "Dutch" 19 "present at testday" "Dutch" 4 10 36 "English" 7 55
+"171" "female" "Dutch" 18 "online" "English" 17 14 27 "Dutch" 7.8 60
+"172" "female" "Dutch" 18 "present at testday" "English" 16 25 34 "Dutch" 8 60
+"173" "male" "Dutch" 19 "present at testday" "English" 17 22 27 "Dutch" 7 60
+"174" "female" "Dutch" 22 "present at testday" "Dutch" 12 15 30 "Dutch" 7.3 60
+"175" "female" "Dutch" 21 "present at testday" "Dutch" 20 8 28 "English" 6 50
+"176" "male" "German" 18 "present at testday" "Dutch" 10 15 33 "English" 6.7 60
+"177" "female" "Dutch" 22 "present at testday" "Dutch" 13 19 23 "Dutch" 5.4 48
+"178" "female" "German" 22 "present at testday" "English" 8 14 35 "English" 6.7 60
+"179" "male" "Non-EU" 20 "present at testday" "Dutch" 8 17 32 "English" 7 60
+"180" "male" "Dutch" 21 "present at testday" "Dutch" 14 26 37 "Dutch" 6.1 60
+"181" "male" "Dutch" 22 "present at testday" "English" 7 15 18 "English" 3.5 0
+"182" "female" "Non-EU" 20 "present at testday" "English" 17 22 33 "English" 5.5 60
+"183" "male" "EU" 21 "online" "Dutch" 9 17 28 "Dutch" 6.3 45
+"184" "male" "EU" 18 "present at testday" "Dutch" 17 27 32 "Dutch" 5.8 8
+"185" "female" "German" 20 "present at testday" "Dutch" 11 20 16 "English" 6 45
+"186" "male" "German" 19 "online" "Dutch" 19 16 35 "English" 8.1 60
+"187" "female" "German" 18 "present at testday" "English" 14 10 27 "English" 6.6 60
+"188" "male" "German" 22 "present at testday" "English" 17 15 23 "Dutch" 5.8 0
+"189" "female" "Dutch" 20 "present at testday" "English" 13 6 32 "English" 6.2 50
+"190" "female" "Dutch" 23 "present at testday" "English" 17 11 35 "Dutch" 7 45
+"191" "male" "German" 19 "present at testday" "Dutch" 11 21 35 "English" 6.4 60
+"192" "female" "German" 19 "present at testday" "English" 14 11 37 "English" 6.8 60
+"193" "female" "Dutch" 23 "present at testday" "Dutch" 16 13 22 "Dutch" 3.3 5
+"194" "female" "EU" 18 "present at testday" "Dutch" 14 20 24 "Dutch" 4.7 45
+"195" "male" "Dutch" 19 "present at testday" "English" 9 11 33 "English" 6.9 8
+"196" "female" "German" 19 "present at testday" "Dutch" 20 15 27 "Dutch" 7.6 55
+"197" "female" "EU" 18 "present at testday" "English" 17 16 29 "English" 6 60
+"198" "female" "German" 18 "present at testday" "Dutch" 13 17 36 "English" 6.9 55
+"199" "male" "EU" 21 "present at testday" "English" 14 24 28 "Dutch" 5.7 52.5
+"200" "male" "Dutch" 19 "present at testday" "English" 15 18 29 "Dutch" 6.5 55
+"201" "female" "Dutch" 20 "present at testday" "Dutch" 12 22 38 "Dutch" 7.5 60
+"202" "female" "Dutch" 20 "present at testday" "English" 10 17 26 "English" 6.3 60
+"203" "male" "German" 20 "online" "Dutch" 15 18 38 "English" 9.3 60
+"204" "female" "German" 17 "present at testday" "Dutch" 13 19 28 "English" 7.1 58
+"205" "male" "German" 19 "online" "English" 17 12 33 "English" 4.9 0
+"206" "female" "EU" 23 "present at testday" "English" 10 17 33 "Dutch" 6.1 60
+"207" "female" "Dutch" 18 "present at testday" "Dutch" 13 11 32 "Dutch" 6.2 60
+"208" "female" "Dutch" 18 "present at testday" "English" 19 5 25 "Dutch" 6 55
+"209" "male" "German" 21 "present at testday" "Dutch" 14 15 21 "English" 5.7 7
+"210" "female" "German" 18 "present at testday" "English" 11 21 18 "Dutch" 5 27.5
+"211" "male" "EU" 23 "present at testday" "English" 17 24 20 "English" 6 5
+"212" "female" "Dutch" 17 "present at testday" "Dutch" 10 15 24 "English" 4 23
+"213" "female" "Dutch" 20 "present at testday" "Dutch" 12 27 28 "Dutch" 8.4 55
+"214" "female" "Dutch" 18 "present at testday" "Dutch" 6 15 25 "English" 6.3 50
+"215" "female" "German" 21 "present at testday" "Dutch" 10 11 32 "English" 6.8 60
+"216" "female" "Dutch" 20 "present at testday" "Dutch" 19 14 29 "Dutch" 7.4 60
+"217" "male" "German" 19 "present at testday" "Dutch" 19 20 30 "Dutch" 7.8 55
+"218" "male" "German" 19 "present at testday" "English" 12 18 27 "English" 6.1 45
+"219" "female" "Dutch" 21 "present at testday" "Dutch" 17 16 30 "English" 6.3 60
+"220" "male" "Dutch" 21 "present at testday" "English" 11 20 33 "English" 8.2 60
+"221" "male" "EU" 18 "present at testday" "English" 11 18 18 "English" 5 0
+"222" "female" "Dutch" 18 "present at testday" "English" 14 21 35 "English" 7.9 60
+"223" "male" "Dutch" 22 "present at testday" "English" 15 23 24 "Dutch" 4 3
+"224" "female" "Dutch" 20 "present at testday" "Dutch" 8 10 33 "Dutch" 8.2 55
+"225" "female" "German" 22 "present at testday" "English" 7 13 29 "English" 7.1 48
+"226" "female" "Dutch" 18 "present at testday" "Dutch" 14 19 34 "English" 7.5 60
+"227" "female" "EU" 18 "present at testday" "English" 10 25 32 "Dutch" 6.5 47
+"228" "male" "Dutch" 19 "present at testday" "English" 16 16 34 "Dutch" 7.8 43
+"229" "female" "German" 19 "present at testday" "English" 15 22 35 "Dutch" 6.9 60
+"230" "female" "Dutch" 19 "present at testday" "English" 8 8 31 "Dutch" 8 55
+"231" "female" "Dutch" 18 "present at testday" "English" 8 16 35 "Dutch" 8.7 55
+"232" "female" "Dutch" 19 "present at testday" "English" 18 18 27 "Dutch" 5.8 3
+"233" "female" "Dutch" 19 "present at testday" "Dutch" 17 11 26 "English" 6.1 45
+"234" "female" "Dutch" 18 "present at testday" "English" 14 26 35 "English" 7.3 60
+"235" "female" "German" 18 "present at testday" "English" 11 22 36 "English" 6.2 60
+"236" "male" "Dutch" 20 "present at testday" "English" 16 22 29 "English" 6.2 55
+"237" "female" "Dutch" 21 "present at testday" "Dutch" 18 13 29 "Dutch" 6.7 60
+"238" "male" "German" 20 "present at testday" "English" 17 11 32 "English" 6.7 15
+"239" "female" "Dutch" 23 "present at testday" "English" 10 14 26 "English" 7.1 60
+"240" "male" "German" 19 "present at testday" "English" 11 12 29 "Dutch" 5.6 45
+"241" "female" "German" 21 "present at testday" "English" 14 25 28 "English" 6.9 60
+"242" "male" "German" 19 "present at testday" "English" 5 19 35 "Dutch" 9.4 60
+"243" "female" "Dutch" 22 "present at testday" "English" 18 17 35 "Dutch" 8.3 60
+"244" "female" "German" 18 "present at testday" "Dutch" 14 18 30 "English" 7.4 52.5
+"245" "male" "German" 18 "present at testday" "English" 12 27 38 "English" 7.8 60
+"246" "male" "Non-EU" 20 "online" "Dutch" 17 9 33 "English" 5 0
+"247" "female" "Dutch" 20 "present at testday" "Dutch" 11 21 24 "English" 5.9 10
+"248" "female" "German" 17 "present at testday" "English" 11 20 31 "English" 7.5 60
+"249" "female" "Dutch" 18 "present at testday" "Dutch" 14 12 33 "Dutch" 6.3 55
+"250" "female" "German" 23 "present at testday" "English" 13 25 37 "Dutch" 7.1 60
+"251" "female" "Dutch" 18 "present at testday" "Dutch" 12 17 28 "Dutch" 7.6 60
+"252" "female" "Dutch" 20 "present at testday" "English" 10 14 23 "Dutch" 5.3 45
+"253" "male" "EU" 18 "present at testday" "English" 10 13 30 "English" 5.9 40
+"254" "male" "German" 23 "present at testday" "Dutch" 6 22 39 "English" 7 60
+"255" "male" "EU" 18 "present at testday" "English" 11 19 30 "Dutch" 6.6 52.5
+"256" "female" "Dutch" 21 "present at testday" "Dutch" 19 21 26 "Dutch" 7.5 60
+"257" "female" "Dutch" 18 "present at testday" "English" 14 18 34 "English" 7.3 32.5
+"258" "female" "Non-EU" 18 "present at testday" "English" 11 17 30 "Dutch" 6.1 55
+"259" "female" "German" 20 "present at testday" "English" 14 7 33 "Dutch" 7.4 60
+"260" "female" "Dutch" 20 "present at testday" "Dutch" 19 21 33 "Dutch" 7.1 60
+"261" "female" "EU" 20 "present at testday" "Dutch" 13 19 26 "English" 6.6 50
+"262" "female" "EU" 19 "present at testday" "English" 17 19 28 "Dutch" 5.9 20
+"263" "male" "Dutch" 18 "present at testday" "Dutch" 10 18 14 "Dutch" 3.7 0
+"264" "male" "Dutch" 19 "present at testday" "English" 19 18 27 "English" 5 60
+"265" "female" "Dutch" 18 "present at testday" "English" 16 20 37 "Dutch" 6.8 60
+"266" "female" "EU" 22 "online" "Dutch" 15 14 29 "Dutch" 4.6 47.5
+"267" "female" "German" 21 "present at testday" "Dutch" 14 17 29 "Dutch" 9 60
+"268" "female" "German" 28 "present at testday" "English" 19 17 32 "English" 7.9 55
+"269" "male" "German" 19 "present at testday" "English" 14 16 26 "Dutch" 7.3 55
+"270" "female" "German" 18 "present at testday" "Dutch" 13 15 32 "Dutch" 7.2 55
+"271" "female" "Dutch" 23 "online" "Dutch" 17 16 33 "Dutch" 5.2 60
+"272" "female" "German" 18 "present at testday" "Dutch" 12 15 32 "Dutch" 7.4 60
+"273" "female" "Dutch" 20 "present at testday" "Dutch" 16 17 24 "English" 5.7 3
+"274" "male" "German" 18 "present at testday" "Dutch" 11 17 26 "Dutch" 6.3 60
+"275" "female" "Dutch" 20 "present at testday" "Dutch" 14 8 26 "English" 6.5 55
+"276" "female" "German" 21 "present at testday" "English" 15 19 33 "English" 8.7 60
+"277" "male" "EU" 20 "present at testday" "Dutch" 14 19 35 "Dutch" 6.4 0
+"278" "female" "Dutch" 20 "present at testday" "English" 18 17 30 "English" 7.6 60
+"279" "female" "EU" 18 "present at testday" "Dutch" 19 13 32 "Dutch" 5.7 3
+"280" "female" "Non-EU" 18 "present at testday" "Dutch" 13 17 30 "English" 6.2 55
+"281" "female" "German" 27 "present at testday" "Dutch" 17 10 32 "Dutch" 8.2 60
+"282" "female" "Dutch" 19 "present at testday" "English" 17 19 31 "English" 7.8 60
+"283" "female" "German" 22 "present at testday" "English" 13 24 28 "English" 8 60
+"284" "male" "Dutch" 20 "present at testday" "English" 18 10 34 "Dutch" 6 40
+"285" "male" "Dutch" 18 "present at testday" "English" 11 20 27 "English" 7.9 52.5
+"286" "female" "Dutch" 21 "present at testday" "English" 19 15 38 "English" 8.6 55
+"287" "male" "German" 19 "online" "Dutch" 16 9 33 "English" 7.1 37.5
+"288" "male" "Dutch" 22 "present at testday" "English" 12 15 29 "Dutch" 7 60
+"289" "female" "EU" 21 "present at testday" "English" 12 19 33 "English" 7.2 55
+"290" "female" "Dutch" 19 "online" "English" 13 9 27 "Dutch" 6.4 60
+"291" "female" "Dutch" 21 "present at testday" "English" 8 14 30 "English" 6.4 60
+"292" "female" "Dutch" 18 "online" "Dutch" 16 9 34 "English" 7.1 60
+"293" "female" "German" 19 "present at testday" "English" 11 16 33 "Dutch" 7.5 60
+"294" "female" "German" 21 "present at testday" "English" 15 15 19 "English" 5.3 0
+"295" "female" "German" 21 "present at testday" "English" 15 25 29 "English" 8.2 60
+"296" "male" "Dutch" 18 "present at testday" "English" 13 13 28 "Dutch" 6.5 55
+"297" "male" "Dutch" 20 "present at testday" "English" 15 12 25 "English" 6.4 55
+"298" "female" "Dutch" 19 "present at testday" "Dutch" 7 20 28 "English" 5.5 60
+"299" "female" "German" 20 "present at testday" "English" 13 12 38 "English" 5.6 55
+"300" "female" "EU" 18 "present at testday" "Dutch" 17 18 26 "English" 5.8 40
+"301" "female" "German" 19 "present at testday" "English" 9 10 27 "English" 6 60
+"302" "male" "German" 19 "present at testday" "English" 12 19 37 "English" 6.9 50
+"303" "female" "Dutch" 20 "present at testday" "Dutch" 12 23 24 "English" 6 58
+"304" "female" "Dutch" 20 "present at testday" "Dutch" 14 17 28 "English" 6 60
+"305" "female" "German" 30 "online" "English" 15 27 33 "English" 7.9 60
+"306" "female" "German" 21 "present at testday" "English" 14 14 35 "Dutch" 7.6 60
+"307" "female" "Dutch" 21 "present at testday" "Dutch" 9 19 29 "English" 7.5 60
+"308" "male" "German" 21 "present at testday" "Dutch" 14 11 25 "Dutch" 6.7 55
+"309" "female" "Dutch" 20 "present at testday" "English" 9 17 30 "Dutch" 7.9 50
+"310" "female" "Dutch" 18 "present at testday" "English" 15 16 33 "Dutch" 6.9 60
+"311" "female" "German" 24 "online" "English" 11 18 31 "Dutch" 7.5 60
+"312" "male" "Dutch" 19 "present at testday" "English" 14 18 31 "English" 6.9 60
+"313" "male" "Dutch" 20 "present at testday" "Dutch" 11 16 32 "English" 7 60
+"314" "female" "Non-EU" 19 "present at testday" "English" 19 21 30 "English" 3.3 15.5
+"315" "female" "EU" 20 "present at testday" "English" 18 24 29 "English" 5.7 45
+"316" "female" "Dutch" 18 "present at testday" "English" 13 17 23 "English" 5.9 50
+"317" "male" "Dutch" 18 "present at testday" "English" 14 12 32 "Dutch" 7.3 45
+"318" "female" "German" 21 "present at testday" "English" 0 16 36 "Dutch" 7.5 60
+"319" "male" "Dutch" 20 "present at testday" "Dutch" 15 13 25 "Dutch" 7.1 45
+"320" "female" "EU" 19 "online" "Dutch" 13 12 29 "English" 4.8 32.5
+"321" "female" "Dutch" 20 "present at testday" "Dutch" 15 11 33 "Dutch" 6.5 60
+"322" "male" "German" 17 "present at testday" "Dutch" 12 12 27 "English" 6.7 60
+"323" "male" "German" 22 "present at testday" "Dutch" 11 17 27 "English" 7.5 60
+"324" "female" "German" 21 "present at testday" "English" 12 14 37 "Dutch" 7.5 45
+"325" "male" "Dutch" 18 "present at testday" "English" 7 22 27 "English" 6.9 60
+"326" "female" "Dutch" 18 "present at testday" "Dutch" 13 12 24 "English" 5.8 35
+"327" "female" "EU" 21 "online" "English" 17 15 29 "English" 6.7 32.5
+"328" "male" "German" 19 "present at testday" "Dutch" 10 26 37 "English" 8.5 60
+"329" "female" "Dutch" 18 "present at testday" "Dutch" 5 24 22 "English" 6.3 0
+"330" "female" "German" 22 "present at testday" "English" 10 15 33 "Dutch" 7.2 60
+"331" "female" "Dutch" 18 "present at testday" "English" 11 16 32 "English" 8.2 60
+"332" "male" "Dutch" 21 "present at testday" "Dutch" 13 27 27 "English" 7 37.5
+"333" "female" "Dutch" 18 "present at testday" "English" 15 12 29 "English" 6.5 50
+"334" "female" "German" 24 "present at testday" "Dutch" 14 24 22 "English" 6.1 55
+"335" "male" "German" 22 "present at testday" "English" 15 19 37 "Dutch" 7.8 55
+"336" "female" "German" 18 "present at testday" "English" 15 14 31 "Dutch" 7.2 60
+"337" "female" "German" 19 "online" "Dutch" 17 15 32 "Dutch" 7.9 60
+"338" "female" "German" 21 "present at testday" "English" 15 13 33 "English" 7.4 60
+"339" "female" "Dutch" 18 "present at testday" "English" 19 10 22 "Dutch" 6.5 8
+"340" "male" "Dutch" 20 "present at testday" "English" 11 14 30 "English" 7.1 50
+"341" "female" "German" 21 "present at testday" "Dutch" 10 20 38 "Dutch" 7.5 60
+"342" "female" "Dutch" 18 "present at testday" "Dutch" 19 14 32 "English" 7.4 52.5
+"343" "male" "EU" 18 "online" "Dutch" 14 10 35 "Dutch" 3 22.5
+"344" "female" "Dutch" 19 "present at testday" "English" 10 18 30 "English" 7.2 60
+"345" "female" "German" 18 "present at testday" "English" 14 19 31 "English" 8.1 40
+"346" "female" "Dutch" 20 "present at testday" "English" 14 10 14 "Dutch" 5 0
+"347" "male" "Dutch" 19 "present at testday" "English" 14 11 33 "English" 6 60
+"348" "female" "German" 19 "present at testday" "English" 16 18 33 "Dutch" 8.3 60
+"349" "female" "German" 21 "present at testday" "Dutch" 12 12 34 "Dutch" 7.3 60
+"350" "female" "German" 19 "present at testday" "Dutch" 5 13 20 "English" 5.8 60
+"351" "female" "Dutch" 26 "present at testday" "English" 17 21 33 "Dutch" 8.5 60
+"352" "female" "German" 20 "present at testday" "Dutch" 16 15 39 "Dutch" 8.1 60
+"353" "male" "German" 21 "present at testday" "English" 14 24 32 "Dutch" 6.9 60
+"354" "male" "Dutch" 21 "present at testday" "Dutch" 10 26 28 "Dutch" 7.9 55
+"355" "male" "German" 19 "present at testday" "English" 10 13 21 "English" 6.9 50
+"356" "female" "Dutch" 19 "online" "Dutch" 16 20 34 "Dutch" 8.2 60
+"357" "female" "German" 18 "online" "English" 14 17 30 "English" 6.6 50
+"358" "female" "German" 18 "present at testday" "English" 7 16 39 "English" 8.1 60
+"359" "female" "Non-EU" 19 "present at testday" "English" 12 20 28 "English" 6.6 0
+"360" "female" "Dutch" 18 "online" "Dutch" 16 17 33 "Dutch" 7.4 60
+"361" "female" "EU" 17 "present at testday" "English" 17 22 32 "Dutch" 7.3 0
+"362" "female" "Dutch" 20 "present at testday" "Dutch" 17 24 31 "English" 8.5 60
+"363" "male" "Dutch" 18 "present at testday" "English" 15 11 25 "Dutch" 5.8 20
+"364" "female" "Dutch" 19 "present at testday" "English" 13 15 21 "English" 4.7 10
+"365" "female" "Non-EU" 18 "present at testday" "English" 12 15 36 "English" 4.7 48
+"366" "male" "Dutch" 22 "present at testday" "English" 16 25 34 "Dutch" 6.5 60
+"367" "female" "Dutch" 20 "present at testday" "English" 15 6 26 "English" 6.2 60
+"368" "male" "Dutch" 28 "present at testday" "Dutch" 20 11 30 "English" 7 55
+"369" "female" "Dutch" 18 "online" "English" 15 18 31 "English" 7.2 60
+"370" "female" "Dutch" 25 "present at testday" "Dutch" 9 17 33 "English" 7.4 50
+"371" "female" "Dutch" 20 "present at testday" "Dutch" 17 9 31 "English" 6.6 53
+"372" "female" "EU" 19 "present at testday" "English" 14 17 30 "Dutch" 7.7 47.5
+"373" "male" "Dutch" 21 "present at testday" "Dutch" 19 9 37 "English" 5.8 30.5
+"374" "male" "German" 18 "present at testday" "English" 16 9 27 "English" 6.9 45
+"375" "male" "EU" 42 "online" "English" 7 16 19 "Dutch" 4.3 0
+"376" "female" "EU" 19 "present at testday" "English" 19 14 25 "Dutch" 4.8 32.5
+"377" "male" "EU" 19 "present at testday" "English" 15 21 35 "Dutch" 6.3 50
+"378" "female" "Dutch" 20 "present at testday" "English" 15 20 37 "English" 9.1 60
+"379" "female" "EU" 18 "present at testday" "Dutch" 15 18 33 "Dutch" 6.7 48
+"380" "female" "German" 20 "online" "English" 12 13 37 "English" 7.5 60
+"381" "female" "German" 19 "present at testday" "Dutch" 12 17 33 "English" 7.3 60
+"382" "female" "German" 18 "present at testday" "Dutch" 18 17 32 "Dutch" 6.7 60
+"383" "female" "EU" 20 "present at testday" "Dutch" 12 11 33 "English" 5.3 0
+"384" "male" "German" 18 "present at testday" "English" 11 15 28 "English" 6.4 60
+"385" "female" "German" 21 "present at testday" "English" 9 15 30 "Dutch" 8.1 60
+"386" "female" "Dutch" 20 "present at testday" "English" 11 13 28 "Dutch" 5.8 60
+"387" "female" "Dutch" 19 "present at testday" "Dutch" 12 12 30 "Dutch" 6.3 2
+"388" "female" "German" 23 "present at testday" "Dutch" 14 14 22 "Dutch" 5.7 43
+"389" "female" "German" 18 "present at testday" "English" 16 16 36 "Dutch" 8.5 45
+"390" "female" "Dutch" 21 "present at testday" "Dutch" 12 22 34 "English" 8.1 60
+"391" "male" "German" 23 "present at testday" "Dutch" 8 22 22 "Dutch" 5.3 48
+"392" "male" "German" 22 "online" "English" 7 10 23 "English" 6.5 42.5
+"393" "female" "Dutch" 19 "present at testday" "English" 16 23 32 "English" 8.4 60
+"394" "female" "German" 19 "present at testday" "Dutch" 17 10 32 "English" 7.1 60
+"395" "female" "Dutch" 21 "present at testday" "English" 16 15 28 "English" 7.2 60
+"396" "male" "German" 19 "present at testday" "Dutch" 11 20 22 "English" 5.1 0
+"397" "female" "Dutch" 18 "present at testday" "English" 18 16 37 "English" 6.8 60
+"398" "female" "Dutch" 18 "present at testday" "English" 15 9 34 "Dutch" 7.2 55
+"399" "female" "Dutch" 19 "present at testday" "English" 20 13 25 "English" 7 52.5
+"400" "female" "German" 18 "present at testday" "Dutch" 15 19 29 "Dutch" 7.9 60
+"401" "male" "German" 24 "present at testday" "English" 15 16 29 "Dutch" 6.7 60
+"402" "female" "Dutch" 18 "present at testday" "English" 17 17 33 "English" 5.3 60
+"403" "male" "Non-EU" 21 "present at testday" "English" 14 18 30 "Dutch" 5 17.5
+"404" "female" "German" 20 "present at testday" "Dutch" 17 23 28 "Dutch" 6.6 60
+"405" "female" "Dutch" 22 "present at testday" "Dutch" 9 16 34 "English" 7.5 55
+"406" "female" "Dutch" 19 "present at testday" "English" 19 8 30 "Dutch" 6.3 48
+"407" "male" "Non-EU" 19 "present at testday" "Dutch" 17 22 31 "Dutch" 5.6 35
+"408" "female" "Dutch" 18 "present at testday" "Dutch" 19 20 19 "Dutch" 1 8
+"409" "female" "German" 23 "present at testday" "English" 9 24 37 "Dutch" 8.4 60
+"410" "female" "German" 18 "present at testday" "English" 11 21 29 "Dutch" 7.1 55
+"411" "female" "Dutch" 19 "present at testday" "Dutch" 11 12 37 "English" 6.8 55
+"412" "female" "EU" 19 "present at testday" "English" 8 16 34 "English" 5.7 55
+"413" "female" "German" 19 "present at testday" "Dutch" 14 15 35 "Dutch" 7.5 60
+"414" "male" "Dutch" 20 "present at testday" "English" 13 17 23 "English" 3.3 2
+"415" "female" "German" 20 "present at testday" "Dutch" 14 11 30 "English" 6.3 45
+"416" "male" "Dutch" 20 "present at testday" "English" 13 14 32 "English" 6.2 60
+"417" "female" "EU" 19 "present at testday" "English" 14 16 26 "English" 6.8 55
+"418" "female" "Dutch" 22 "present at testday" "Dutch" 12 16 31 "English" 6.8 60
+"419" "female" "EU" 21 "present at testday" "English" 13 13 32 "English" 7.4 5
+"420" "male" "German" 22 "present at testday" "English" 16 21 21 "English" 4.8 50
+"421" "female" "Dutch" 20 "present at testday" "English" 16 14 31 "English" 8.1 60
+"422" "female" "Dutch" 18 "present at testday" "English" 8 21 28 "English" 6.3 55
+"423" "female" "Dutch" 19 "present at testday" "English" 19 19 33 "English" 8.5 60
+"424" "male" "German" 20 "present at testday" "English" 16 16 36 "Dutch" 7.7 40
+"425" "female" "Dutch" 18 "online" "English" 18 11 28 "Dutch" 7.3 60
+"426" "female" "Dutch" 18 "present at testday" "Dutch" 11 19 30 "English" 7.7 60
+"427" "female" "German" 19 "present at testday" "English" 12 26 36 "English" 8.1 50
+"428" "female" "Dutch" 18 "present at testday" "English" 13 17 35 "English" 8 60
+"429" "female" "German" 18 "present at testday" "Dutch" 19 25 23 "English" 3 3
+"430" "female" "EU" 18 "present at testday" "Dutch" 8 24 38 "English" 6.5 22.5
+"431" "female" "German" 20 "present at testday" "English" 15 14 28 "Dutch" 6.5 40
+"432" "female" "German" 20 "present at testday" "English" 7 11 30 "English" 6.3 60
+"433" "female" "German" 20 "present at testday" "English" 10 24 34 "Dutch" 6.7 50
+"434" "female" "Dutch" 24 "present at testday" "English" 16 19 22 "Dutch" 6.3 10
+"435" "female" "German" 23 "present at testday" "English" 11 24 37 "English" 7.6 60
+"436" "female" "German" 18 "present at testday" "Dutch" 9 16 34 "Dutch" 7.4 60
+"437" "female" "Dutch" 20 "present at testday" "English" 15 9 30 "English" 6.3 60
+"438" "female" "EU" 20 "present at testday" "Dutch" 13 5 31 "Dutch" 5.9 17.5
+"439" "male" "German" 20 "online" "Dutch" 19 16 30 "Dutch" 6.9 52.5
+"440" "female" "German" 21 "present at testday" "English" 13 18 37 "Dutch" 7.3 60
+"441" "female" "Dutch" 21 "present at testday" "English" 11 17 27 "English" 5.9 60
+"442" "female" "Dutch" 20 "present at testday" "Dutch" 14 20 22 "Dutch" 5.4 60
+"443" "female" "Dutch" 19 "present at testday" "English" 13 18 23 "English" 2.8 15
+"444" "male" "Dutch" 22 "online" "Dutch" 16 18 26 "English" 7.2 60
+"445" "female" "Dutch" 19 "present at testday" "English" 17 24 31 "English" 7.5 60
+"446" "male" "German" 20 "present at testday" "Dutch" 17 13 25 "Dutch" 6.9 0
+"447" "male" "German" 17 "present at testday" "English" 10 11 37 "Dutch" 6 13
+"448" "female" "Dutch" 20 "present at testday" "English" 16 23 30 "English" 8 60
+"449" "female" "German" 21 "present at testday" "English" 11 19 23 "English" 2 33
+"450" "male" "Dutch" 21 "present at testday" "Dutch" 13 20 29 "Dutch" 7.3 5
+"451" "male" "German" 18 "present at testday" "English" 17 7 35 "Dutch" 6 60
+"452" "female" "Dutch" 18 "present at testday" "English" 13 7 34 "English" 6.5 45
+"453" "male" "German" 18 "present at testday" "English" 14 15 27 "Dutch" 7 55
+"454" "female" "German" 17 "present at testday" "Dutch" 10 14 23 "English" 3.9 0
+"455" "male" "Dutch" 19 "present at testday" "Dutch" 18 6 34 "English" 7.3 5
+"456" "male" "Dutch" 19 "present at testday" "English" 16 20 33 "English" 7 60
+"457" "female" "Dutch" 19 "present at testday" "English" 13 14 25 "Dutch" 6.8 60
+"458" "female" "German" 21 "present at testday" "Dutch" 12 19 35 "Dutch" 9 37
+"459" "female" "German" 18 "present at testday" "English" 11 17 37 "Dutch" 7.9 55
+"460" "female" "German" 18 "online" "Dutch" 16 18 35 "English" 7.6 60
+"461" "female" "Non-EU" 18 "online" "Dutch" 18 15 31 "English" 6.4 42.5
+"462" "female" "Dutch" 22 "present at testday" "English" 14 22 30 "English" 7.2 60
+"463" "female" "German" 20 "online" "English" 15 21 29 "English" 6.9 60
+"464" "female" "German" 19 "present at testday" "Dutch" 12 13 32 "English" 6.8 60
+"465" "male" "Dutch" 19 "present at testday" "English" 12 19 35 "English" 7.7 60
+"466" "male" "Dutch" 21 "present at testday" "Dutch" 18 22 24 "English" 5.8 17.5
+"467" "female" "German" 18 "present at testday" "English" 7 12 38 "English" 7.1 50
+"468" "female" "German" 23 "online" "Dutch" 12 10 31 "Dutch" 6.6 60
+"469" "female" "Dutch" 19 "present at testday" "English" 13 9 27 "English" 7.4 60
+"470" "male" "Dutch" 19 "present at testday" "English" 14 22 19 "English" 3.3 50
+"471" "female" "German" 18 "present at testday" "Dutch" 14 23 25 "Dutch" 8.6 55
+"472" "male" "German" 18 "present at testday" "English" 16 17 28 "English" 8.3 43
+"473" "female" "Dutch" 21 "present at testday" "English" 11 17 36 "Dutch" 8.3 60
+"474" "female" "EU" 20 "present at testday" "Dutch" 17 27 32 "English" 5.5 55
+"475" "female" "Dutch" 19 "present at testday" "English" 18 15 30 "English" 7.5 60
+"476" "female" "German" 19 "present at testday" "Dutch" 14 17 33 "English" 6.8 50
+"477" "female" "Dutch" 21 "present at testday" "English" 20 26 30 "English" 6.9 60
+"478" "female" "German" 17 "present at testday" "English" 9 12 39 "English" 6.3 60
+"479" "female" "Dutch" 22 "present at testday" "Dutch" 15 22 28 "Dutch" 5.7 60
+"480" "male" "Dutch" 20 "present at testday" "English" 8 13 14 "English" 4.4 10
+"481" "male" "Non-EU" 22 "present at testday" "Dutch" 14 12 25 "Dutch" 3.3 5
+"482" "female" "Dutch" 19 "online" "Dutch" 15 24 24 "English" 5.9 3
+"483" "male" "EU" 20 "present at testday" "English" 12 15 35 "English" 5.8 38
+"484" "female" "German" 18 "present at testday" "Dutch" 18 19 30 "English" 7 60
+"485" "male" "Dutch" 18 "present at testday" "English" 18 27 33 "English" 8.2 60
+"486" "male" "Dutch" 19 "present at testday" "English" 16 15 30 "English" 6.1 60
+"487" "female" "Dutch" 18 "present at testday" "Dutch" 10 16 25 "English" 6 60
+"488" "male" "German" 17 "present at testday" "Dutch" 12 22 33 "English" 7.3 50
+"489" "female" "German" 21 "present at testday" "English" 12 24 30 "Dutch" 6.5 37.5
+"490" "female" "German" 18 "present at testday" "Dutch" 9 14 32 "Dutch" 6.6 60
+"491" "male" "Dutch" 18 "present at testday" "Dutch" 14 15 19 "English" 6.2 0
+"492" "male" "Dutch" 19 "present at testday" "Dutch" 11 12 32 "English" 6.7 60
+"493" "female" "German" 20 "online" "Dutch" 16 16 28 "Dutch" 8.2 55
+"494" "male" "Dutch" 19 "present at testday" "Dutch" 14 18 28 "Dutch" 6.2 60
+"495" "female" "Dutch" 19 "present at testday" "Dutch" 10 10 29 "English" 6.8 60
+"496" "female" "German" 21 "present at testday" "English" 20 15 36 "Dutch" 7.5 55
+"497" "female" "German" 19 "present at testday" "Dutch" 17 20 24 "Dutch" 3.9 43
+"498" "female" "German" 18 "present at testday" "English" 13 16 28 "Dutch" 6.4 50
+"499" "female" "German" 18 "present at testday" "English" 20 23 25 "Dutch" 7.2 60
+"500" "female" "Dutch" 18 "present at testday" "English" 17 11 34 "English" 6.8 45
+"501" "male" "German" 19 "online" "Dutch" 17 13 32 "Dutch" 6.9 60
+"502" "male" "Dutch" 19 "present at testday" "English" 13 12 24 "Dutch" 5.9 5
+"503" "male" "German" 19 "present at testday" "English" 19 14 32 "Dutch" 6.8 50
+"504" "female" "Dutch" 19 "present at testday" "English" 10 27 33 "English" 6.9 60
+"505" "male" "Dutch" 20 "present at testday" "Dutch" 14 19 33 "English" 7.1 60
+"506" "female" "German" 20 "present at testday" "Dutch" 10 22 37 "English" 8.1 60
+"507" "male" "Dutch" 26 "present at testday" "Dutch" 8 19 33 "Dutch" 6.5 45
+"508" "female" "German" 18 "present at testday" "English" 18 14 33 "Dutch" 8.3 60
+"509" "male" "German" 21 "present at testday" "Dutch" 11 26 18 "Dutch" 3.6 50
+"510" "female" "EU" 19 "present at testday" "English" 18 9 33 "Dutch" 6.8 0
+"511" "male" "Dutch" 21 "present at testday" "English" 10 11 25 "English" 4.9 0
+"512" "female" "EU" 18 "present at testday" "English" 17 12 37 "Dutch" 5.7 0
+"513" "female" "German" 18 "present at testday" "English" 18 12 26 "English" 5.1 40
+"514" "female" "Dutch" 20 "present at testday" "English" 16 13 30 "English" 8.4 60
+"515" "male" "German" 19 "present at testday" "Dutch" 12 25 30 "Dutch" 7.2 55
+"516" "female" "Dutch" 18 "present at testday" "Dutch" 6 14 39 "Dutch" 7.8 60
+"517" "female" "Dutch" 21 "present at testday" "English" 10 9 28 "English" 7.8 50
+"518" "female" "German" 19 "present at testday" "Dutch" 15 19 36 "Dutch" 7.9 60
+"519" "female" "German" 18 "present at testday" "Dutch" 10 12 27 "English" 6.2 45
+"520" "female" "Dutch" 19 "present at testday" "English" 12 23 38 "Dutch" 8.1 60
+"521" "male" "Dutch" 21 "present at testday" "Dutch" 12 19 37 "Dutch" 7.4 55
+"522" "female" "German" 21 "present at testday" "English" 16 15 29 "Dutch" 8.1 60
+"523" "female" "German" 19 "present at testday" "English" 13 24 36 "English" 7.5 55
+"524" "male" "German" 20 "present at testday" "English" 12 16 28 "English" 7.2 60
+"525" "female" "German" 19 "present at testday" "English" 15 16 32 "English" 7.3 60
+"526" "female" "EU" 20 "present at testday" "English" 12 20 37 "English" 7 5
+"527" "female" "German" 19 "present at testday" "English" 12 17 20 "Dutch" 6.4 20.5
+"528" "female" "German" 17 "present at testday" "English" 15 22 17 "English" 5.5 50
+"529" "female" "German" 19 "online" "Dutch" 16 15 32 "English" 8.6 60
+"530" "female" "Dutch" 18 "present at testday" "English" 16 22 36 "English" 7.5 60
+"531" "female" "Dutch" 20 "online" "Dutch" 19 9 23 "English" 1 0
+"532" "female" "German" 19 "present at testday" "English" 12 15 24 "Dutch" 4.4 50
+"533" "female" "Dutch" 18 "present at testday" "Dutch" 14 15 35 "Dutch" 8.9 60
+"534" "female" "German" 19 "present at testday" "English" 15 13 21 "Dutch" 6.5 10
+"535" "female" "German" 18 "present at testday" "English" 16 23 18 "Dutch" 5.7 60
+"536" "female" "Dutch" 18 "present at testday" "English" 15 11 28 "Dutch" 6.2 45
+"537" "female" "German" 20 "present at testday" "Dutch" 19 14 34 "Dutch" 8.6 60
+"538" "female" "German" 20 "present at testday" "English" 14 22 23 "Dutch" 4.9 55
+"539" "female" "Dutch" 21 "present at testday" "English" 13 19 35 "Dutch" 8 60
+"540" "female" "German" 20 "present at testday" "Dutch" 9 12 27 "English" 6.8 48
+"541" "female" "Dutch" 17 "present at testday" "Dutch" 19 13 21 "English" 5.3 5
+"542" "female" "German" 27 "online" "English" 18 20 36 "Dutch" 7.1 60
+"543" "female" "Dutch" 18 "present at testday" "English" 7 14 32 "English" 6.7 60
+"544" "female" "Dutch" 19 "present at testday" "English" 17 6 22 "Dutch" 6.9 30
+"545" "male" "German" 18 "present at testday" "Dutch" 9 16 21 "English" 3.3 48
+"546" "male" "Dutch" 20 "present at testday" "English" 18 19 37 "Dutch" 7.5 60
+"547" "female" "German" 18 "present at testday" "English" 11 10 27 "Dutch" 6 40
+"548" "male" "Dutch" 18 "present at testday" "English" 12 10 23 "Dutch" 3.5 35
+"549" "female" "Dutch" 20 "present at testday" "Dutch" 15 15 16 "English" 3.6 0
+"550" "female" "German" 18 "present at testday" "Dutch" 9 18 26 "English" 9 60
+"551" "male" "Dutch" 18 "present at testday" "Dutch" 10 19 27 "English" 7.2 60
+"552" "female" "Dutch" 20 "present at testday" "English" 17 18 27 "English" 7.3 60
+"553" "female" "German" 19 "present at testday" "English" 12 19 32 "English" 8.3 55
+"554" "female" "German" 24 "present at testday" "Dutch" 11 25 29 "English" 8.5 60
+"555" "male" "Dutch" 18 "present at testday" "Dutch" 12 22 29 "English" 7 60
+"556" "male" "Dutch" 19 "present at testday" "Dutch" 18 12 35 "Dutch" 6.9 35
+"557" "female" "Dutch" 21 "present at testday" "English" 18 18 21 "English" 4 0
+"558" "male" "German" 19 "present at testday" "English" 18 24 34 "English" 8.9 60
+"559" "female" "Dutch" 18 "present at testday" "Dutch" 11 17 28 "Dutch" 8.5 60
+"560" "female" "Dutch" 18 "present at testday" "Dutch" 12 17 33 "English" 7.7 60
+"561" "male" "German" 19 "present at testday" "English" 17 16 27 "English" 7.4 45
+"562" "male" "Dutch" 18 "present at testday" "English" 13 12 31 "Dutch" 6 53
+"563" "male" "Dutch" 21 "present at testday" "English" 9 11 22 "English" 6.6 45
+"564" "female" "German" 19 "present at testday" "English" 13 21 31 "Dutch" 6.4 60
+"565" "male" "Dutch" 18 "present at testday" "English" 11 10 27 "Dutch" 4.8 33
+"566" "female" "Dutch" 18 "online" "English" 10 15 33 "Dutch" 8.5 60
+"567" "female" "German" 20 "present at testday" "English" 15 20 35 "Dutch" 9.1 60
+"568" "female" "Dutch" 25 "online" "Dutch" 10 23 25 "English" 8.4 60
+"569" "male" "Dutch" 19 "present at testday" "Dutch" 17 19 32 "Dutch" 8.2 55
+"570" "female" "German" 19 "present at testday" "English" 15 18 32 "English" 7.4 60
+"571" "male" "German" 22 "present at testday" "English" 14 22 31 "English" 7.7 47.5
+"572" "female" "German" 23 "present at testday" "English" 16 19 31 "English" 7.9 60
+"573" "female" "EU" 18 "online" "English" 13 15 32 "English" 6.4 55
+"574" "male" "Dutch" 19 "present at testday" "English" 18 16 28 "Dutch" 6.8 55
+"575" "female" "German" 19 "online" "Dutch" 17 14 23 "English" 6.4 47.5
+"576" "female" "Dutch" 19 "present at testday" "English" 8 22 34 "Dutch" 6.7 60
+"577" "female" "Dutch" 19 "present at testday" "Dutch" 19 19 29 "Dutch" 7.7 60
+"578" "female" "Dutch" 18 "present at testday" "Dutch" 15 10 29 "English" 6.4 60
+"579" "female" "Dutch" 20 "present at testday" "Dutch" 16 14 24 "Dutch" 6.2 0
+"580" "female" "Non-EU" 22 "present at testday" "English" 11 16 22 "English" 6.4 0
+"581" "female" "Dutch" 24 "present at testday" "English" 17 19 34 "English" 7.1 55
+"582" "female" "German" 18 "present at testday" "English" 13 8 27 "Dutch" 6.3 47.5
+"583" "male" "Dutch" 19 "present at testday" "English" 12 13 27 "English" 6.7 60
+"584" "female" "EU" 19 "present at testday" "Dutch" 14 17 28 "Dutch" 6.9 60
+"585" "female" "Dutch" 20 "present at testday" "Dutch" 10 17 16 "English" 4.7 25.5
+"586" "female" "Dutch" 19 "present at testday" "Dutch" 19 16 19 "English" 5.2 48
+"587" "male" "German" 18 "present at testday" "English" 15 25 31 "English" 6.1 55
+"588" "female" "Dutch" 21 "present at testday" "Dutch" 10 13 36 "English" 6.7 60
+"589" "male" "German" 20 "present at testday" "English" 9 16 34 "Dutch" 7.2 60
+"590" "female" "Dutch" 20 "present at testday" "English" 11 18 25 "Dutch" 8.4 55
+"591" "female" "German" 18 "present at testday" "Dutch" 9 13 33 "English" 6.8 60
+"592" "male" "Dutch" 21 "present at testday" "English" 17 16 28 "English" 7.3 58
+"593" "female" "German" 20 "present at testday" "Dutch" 13 14 34 "English" 6.8 60
+"594" "female" "Dutch" 19 "present at testday" "Dutch" 17 17 16 "Dutch" 5.5 3
+"595" "female" "Dutch" 28 "present at testday" "English" 14 17 28 "English" 7.2 22.5
+"596" "female" "EU" 19 "present at testday" "English" 17 18 26 "Dutch" 4 55
+"597" "male" "Dutch" 18 "present at testday" "English" 14 15 28 "English" 7.5 50
+"598" "female" "German" 18 "present at testday" "Dutch" 11 10 29 "English" 6.5 50
+"599" "male" "EU" 19 "present at testday" "English" 10 12 12 "English" 2.2 43
+"600" "female" "German" 21 "present at testday" "English" 14 20 35 "English" 6.7 58
+"601" "female" "German" 20 "present at testday" "English" 11 14 24 "Dutch" 4 15
+"602" "male" "German" 20 "present at testday" "Dutch" 16 16 29 "Dutch" 7 60
+"603" "female" "Dutch" 20 "present at testday" "English" 15 16 31 "English" 6.8 60
+"604" "male" "Dutch" 21 "present at testday" "Dutch" 19 23 31 "English" 6.8 60
+"605" "male" "German" 20 "present at testday" "English" 15 17 31 "English" 8.2 60
+"606" "female" "German" 19 "present at testday" "Dutch" 18 21 23 "English" 6.3 0
+"607" "male" "German" 22 "present at testday" "English" 11 12 36 "Dutch" 6.5 10
+"608" "male" "EU" 19 "present at testday" "English" 10 14 34 "Dutch" 7.5 45
+"609" "female" "Dutch" 19 "present at testday" "English" 12 12 20 "English" 6.3 60
+"610" "female" "German" 18 "online" "Dutch" 10 18 36 "Dutch" 6.9 60
+"611" "male" "Dutch" 20 "online" "English" 12 23 31 "English" 7 60
+"612" "female" "German" 19 "present at testday" "Dutch" 19 17 26 "English" 6.5 60
+"613" "female" "Non-EU" 19 "present at testday" "Dutch" 14 16 28 "English" 6.7 43
+"614" "female" "Dutch" 20 "present at testday" "Dutch" 9 24 28 "English" 7.5 45
+"615" "male" "German" 17 "present at testday" "English" 11 17 21 "English" 5.1 60
+"616" "female" "Dutch" 20 "present at testday" "English" 12 15 30 "Dutch" 6.9 60
+"617" "female" "Dutch" 21 "present at testday" "English" 16 18 33 "English" 8.3 60
+"618" "male" "German" 19 "present at testday" "Dutch" 12 23 36 "Dutch" 6.3 35.5
+"619" "female" "Dutch" 19 "present at testday" "English" 18 23 39 "English" 7 60
+"620" "female" "EU" 18 "present at testday" "English" 14 15 23 "English" 5.3 3
+"621" "female" "Dutch" 19 "online" "Dutch" 12 19 26 "English" 7 60
+"622" "female" "Dutch" 20 "present at testday" "Dutch" 12 20 29 "Dutch" 7.9 45
+"623" "male" "Dutch" 23 "present at testday" "Dutch" 10 19 33 "English" 7.1 60
+"624" "female" "Dutch" 20 "present at testday" "Dutch" 18 21 35 "English" 7.4 60
+"625" "female" "Dutch" 18 "present at testday" "Dutch" 13 19 33 "Dutch" 8.5 60
+"626" "female" "Dutch" 18 "online" "Dutch" 12 10 39 "English" 6.8 38
+"627" "female" "Dutch" 21 "online" "Dutch" 13 17 38 "English" 6.7 60
+"628" "male" "German" 19 "present at testday" "Dutch" 13 15 21 "Dutch" 2.7 10
+"629" "male" "German" 19 "present at testday" "Dutch" 18 12 33 "English" 7 45
+"630" "male" "Dutch" 20 "present at testday" "Dutch" 16 13 40 "English" 6.3 60
+"631" "male" "EU" 19 "present at testday" "Dutch" 13 16 19 "Dutch" 5.2 0
+"632" "male" "German" 21 "present at testday" "English" 14 21 31 "English" 7.7 55
+"633" "male" "Dutch" 17 "present at testday" "English" 15 21 26 "English" 6.3 53
+"634" "male" "Dutch" 19 "present at testday" "Dutch" 12 16 32 "Dutch" 8 60
+"635" "female" "Dutch" 17 "online" "English" 16 22 33 "English" 7.4 45
+"636" "female" "German" 20 "present at testday" "English" 7 9 24 "Dutch" 4.4 3
+"637" "female" "Dutch" 24 "present at testday" "English" 17 22 33 "English" 8.9 60
+"638" "female" "Dutch" 20 "present at testday" "English" 14 16 19 "Dutch" 4.7 45
